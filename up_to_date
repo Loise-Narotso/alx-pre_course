@@ -1,0 +1,4 @@
+To update changes of the main branch locally, we use the following git commandline
+git checkout main
+git fetch origin
+git merge origin/main :to merge the content of main
